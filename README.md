@@ -11,8 +11,8 @@ Lead developer note: I hate Node.js, but still have to use it to prevent potenti
 - Lightweight – Just 23 KB of JavaScript and 22 KB of lazy-loaded WebAssembly
 - Simple – No bells and whistles. Just what is needed to play MIDI files.
 - Low-level - As low as the original glue layer allows us to be. Just like how you would use TiMidity++ on your device.
-- No FreePats. Just bring your own SF2 file.
-- Or no SF2 file even, just provide your own configuration from scratch?
+- Liberty - No FreePats. Just bring your own SF2 file.
+- Customizability - Or no SF2 file even, just provide your own configuration from scratch?
 
 ## Usage
 
